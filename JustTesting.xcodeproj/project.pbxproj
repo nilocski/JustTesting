@@ -14,6 +14,7 @@
 		891CA9891F5372B70097BC44 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 891CA9871F5372B70097BC44 /* LaunchScreen.storyboard */; };
 		891CA9941F5372B70097BC44 /* JustTestingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 891CA9931F5372B70097BC44 /* JustTestingTests.swift */; };
 		891CA99F1F5372B70097BC44 /* JustTestingUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 891CA99E1F5372B70097BC44 /* JustTestingUITests.swift */; };
+		891CA9AD1F537B370097BC44 /* justAtest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 891CA9AC1F537B370097BC44 /* justAtest.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		891CA99A1F5372B70097BC44 /* JustTestingUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JustTestingUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		891CA99E1F5372B70097BC44 /* JustTestingUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JustTestingUITests.swift; sourceTree = "<group>"; };
 		891CA9A01F5372B70097BC44 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		891CA9AC1F537B370097BC44 /* justAtest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = justAtest.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				891CA9801F5372B70097BC44 /* ViewController.swift */,
 				891CA9821F5372B70097BC44 /* Main.storyboard */,
 				891CA9851F5372B70097BC44 /* Assets.xcassets */,
+				891CA9AC1F537B370097BC44 /* justAtest.swift */,
 				891CA9871F5372B70097BC44 /* LaunchScreen.storyboard */,
 				891CA98A1F5372B70097BC44 /* Info.plist */,
 			);
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				891CA9811F5372B70097BC44 /* ViewController.swift in Sources */,
+				891CA9AD1F537B370097BC44 /* justAtest.swift in Sources */,
 				891CA97F1F5372B70097BC44 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
